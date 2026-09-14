@@ -1,2 +1,2 @@
-# latihan-1
+# pibs2026
 latihan repository github pertama
